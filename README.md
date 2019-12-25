@@ -1,3 +1,3 @@
-# LearnReact
+# Learn React
 
 리액트를 배우며 기록하는 저장소입니다. 이슈, PR, 지적 완전 환영합니다! 😋
